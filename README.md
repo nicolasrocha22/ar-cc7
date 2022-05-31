@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/61709133/171179329-fe336d1b-92d8-4757-
 
 ## Equipe
 
-* Luís Felipe
+* Luis Filipe
 * Nícolas Rocha
 * Paula Martins
 * Larissa Negrão
